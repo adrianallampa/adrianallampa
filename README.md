@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bienvenidos👋 a Tecnicas y Herramientas Moderna
 
-<!--
-**adrianallampa/adrianallampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proyectos Realizados durante el cursado 
+-CV realizado con Latex (Overleaf.com)
 
-Here are some ideas to get you started:
+-Traducción de un  capitulo de un libro de inglés a español sobre la descarbonizacón
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-creación de ete Repositorio
+
+
+## Curriculum Vitae realizado con Overleaf
+
+[CV_Adriana_LLampa]
+
+## Capitulo del libro 6
+[capitulo traduccion ]
